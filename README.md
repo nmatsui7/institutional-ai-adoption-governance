@@ -187,14 +187,11 @@ Literacy, and Pilot Service.” August 2026.
 
 ## License
 
-Add a licence before public release.
+This repository is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
-For broad reuse with attribution, consider:
+You are free to share and adapt the materials for any purpose, provided you give appropriate credit, provide a link to the license, and indicate if changes were made.
 
-- **CC BY 4.0** for reports and written guidance;
-- **MIT** or **Apache-2.0** for any future code or reusable software assets.
-
-A repository may use different licences for documentation and code. Record the applicable licence in each relevant directory.
+For any future code or reusable software assets, a separate license (such as **MIT** or **Apache-2.0**) may be used and recorded in the relevant directory.
 
 ## Disclaimer
 
