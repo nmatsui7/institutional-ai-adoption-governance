@@ -8,6 +8,8 @@ This repository contains reports and planning resources for institutions develop
 
 The materials treat AI adoption as both a technology initiative and an organizational change process. They emphasize workflow evidence, appropriate data use, bounded experimentation, human accountability, documented failure cases, evaluation, and measured expansion.
 
+The repository also includes a companion report on how selected large corporations publicly describe the introduction and scaling of enterprise generative AI services, complementing the higher-education perspective with corporate practice and evidence.
+
 The repository is intended primarily for:
 
 - higher-education leaders and administrators;
@@ -43,6 +45,37 @@ Suggested file:
 
 ```text
 reports/institutional-ai-service-recommendations.pdf
+```
+
+### Launching and Scaling Enterprise AI Enablement, Literacy, and Pilot Services
+
+A comparative research report on how selected large corporations publicly
+describe the introduction and scaling of enterprise generative AI services.
+It synthesizes official corporate publications, annual reports, public company
+materials, and clearly identified vendor case studies.
+
+It covers:
+
+- recurring operating models: a controlled enterprise environment paired with
+  central governance and federated business ownership;
+- public examples from JPMorganChase, Morgan Stanley, Walmart, Moderna,
+  Unilever, and IBM;
+- the information-protection conclusion that contractual non-training terms
+  are necessary but insufficient;
+- institutional identity, data authority, classification, DLP and retention
+  settings, repository permission review, connector restrictions, secrets
+  management, monitoring, incident response, and periodic revalidation;
+- bounded pilots with evidence-based progression to production;
+- higher-risk integrations and agentic actions warranting substantially more
+  review than protected chat or synthetic-data learning exercises;
+- a practical operating model for a central AI enablement and governance
+  service with business-unit accountability for purpose, data authority,
+  workflow ownership, and human review.
+
+Suggested file:
+
+```text
+reports/corporate-ai-enablement-and-governance-report.pdf
 ```
 
 ### Principles for AI Adoption and Governance
@@ -107,6 +140,7 @@ institutional-ai-adoption-governance/
 ├── LICENSE
 ├── reports/
 │   ├── institutional-ai-service-recommendations.pdf
+│   ├── corporate-ai-enablement-and-governance-report.pdf
 │   └── principles-for-ai-adoption-and-governance.pdf
 ├── diagrams/
 │   ├── institutional-control-architecture.png
@@ -147,6 +181,8 @@ The reports distinguish among:
 ## Source transparency
 
 The institutional service report draws on official public materials from selected universities and Canadian public authorities. Source notes are included in the report.
+
+The enterprise report synthesizes official corporate publications, annual reports, public company materials, and clearly identified vendor case studies, with each claim categorized as a company-published fact, a vendor case study, a cross-company observation, or a recommendation.
 
 The document *Principles for AI Adoption and Governance* was informed by Japanese-language educational materials published by 株式会社AX. It is an independent English-language synthesis and is not an official translation or publication by the original creator.
 
