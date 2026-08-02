@@ -78,6 +78,16 @@ Suggested file:
 reports/corporate-ai-enablement-and-governance-report.pdf
 ```
 
+### AI Business Efficiency in Academic Settings
+
+A report examining how AI can improve operational efficiency in academic settings, including workflow evidence, appropriate data use, and measured expansion.
+
+Suggested file:
+
+```text
+reports/ai-business-efficiency-in-academic-settings-report.docx
+```
+
 ### Principles for AI Adoption and Governance
 
 A practical set of organizational principles for responsible AI adoption.
@@ -102,6 +112,16 @@ Suggested file:
 
 ```text
 reports/principles-for-ai-adoption-and-governance.pdf
+```
+
+### AI-Assisted Mailbox Triage Pilot Simulation
+
+A desktop project simulation examining how a small, read-only mailbox-triage concept can develop into a complex institutional workflow. The simulation has its own README describing its scope, workstreams, and review gates.
+
+Suggested file:
+
+```text
+simulations/ai-assisted-mailbox-triage-pilot/ai-assisted-mailbox-triage-pilot-simulation.pdf
 ```
 
 ## Core perspective
@@ -132,23 +152,21 @@ The materials in this repository are based on several recurring principles:
 8. **Revalidate over time.**  
    Models, features, contracts, data, permissions, workflows, and institutional requirements change.
 
-## Suggested repository structure
+## Repository structure
 
 ```text
 institutional-ai-adoption-governance/
 ├── README.md
 ├── LICENSE
 ├── reports/
-│   ├── institutional-ai-service-recommendations.pdf
+│   ├── ai-business-efficiency-in-academic-settings-report.docx
 │   ├── corporate-ai-enablement-and-governance-report.pdf
+│   ├── institutional-ai-service-recommendations.pdf
 │   └── principles-for-ai-adoption-and-governance.pdf
-├── diagrams/
-│   ├── institutional-control-architecture.png
-│   ├── service-risk-tiers.png
-│   └── pilot-lifecycle.png
-├── sources/
-│   └── source-notes.md
-└── CONTRIBUTING.md
+└── simulations/
+    └── ai-assisted-mailbox-triage-pilot/
+        ├── README.md
+        └── ai-assisted-mailbox-triage-pilot-simulation.pdf
 ```
 
 ## How to use these materials
