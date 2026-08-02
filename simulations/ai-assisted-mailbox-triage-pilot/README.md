@@ -14,3 +14,9 @@ The simulation covers:
 - final decisions to stop, redesign, extend, replicate, or seek separate approval for active use.
 
 This is a conceptual planning exercise, not a deployed or institution-approved system.
+
+### Diagram
+
+An example workflow diagram for the simulation:
+
+![Workflow example](diagrams/workflow-example.png)
